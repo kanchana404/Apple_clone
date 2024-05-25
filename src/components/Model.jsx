@@ -55,7 +55,7 @@ const Model = () => {
 
 
           <ModelView
-         
+          ModelView 
           index={2}
           groupRef={large}
           gsapType="view2"
@@ -77,7 +77,7 @@ const Model = () => {
               }}
               eventSource={document.getElementById('root')}
             >
-              <View.Port />
+             
             </Canvas>
           </div>
           <div className="mx-auto w-full">
